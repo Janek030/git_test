@@ -1,1 +1,2 @@
 Hello world. This is another test for the Git chapter.
+Testing the Bonus:  git config --global core.editor "code --wait"
